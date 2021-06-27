@@ -17,6 +17,7 @@ PRODUCT_PACKAGES += \
     Backgrounds \
     PulseMusic \
     Gallery \
+    Messaging \
     Etar \
     Jelly \
     Profiles \
