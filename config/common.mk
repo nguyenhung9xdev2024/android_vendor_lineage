@@ -5,8 +5,6 @@ PRODUCT_BRAND ?= LineageOS
 
 PRODUCT_BUILD_PROP_OVERRIDES += BUILD_UTC_DATE=0
 
-BUILD_FINGERPRINT := "google/coral/coral:11/RQ3A.210905.001/7511028:user/release-keys"
-
 # Bootanimation
 $(call inherit-product, vendor/lineage/bootanimation/bootanimation.mk)
 
