@@ -32,6 +32,7 @@ PRODUCT_PACKAGES += \
     LockClock \
     Profiles \
     Seedvault \
+    TrebuchetQuickStep \
     WeatherProvider
 
 # Accents
